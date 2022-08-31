@@ -131,10 +131,10 @@ public class Main {
                 }
                 if (s.length() > 0) {
                     System.out.println(s + "->" + s.length());
-
                 }
             }
             System.out.println("count end");
+            System.out.println("I like summer");
         }
 
 
